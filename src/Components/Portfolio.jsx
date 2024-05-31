@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "HoxTrackr",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "HoxTrackr is user-friendly web application designed to help individual students efficiently manage their personal finances while living in hostels or shared accommodations",
+    url: "https://hox-trackr.vercel.app",
   },
   {
-    title: "Web Development for Beginners",
+    title: "SnapStock",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Pinterest inspired project where user can find stock images & videos for projects. User can upload images & videos to platform. Machine Learning Model is implemented to check for inappropriate content in image",
+    url: "https://github.com/HussnainAhmad1606/SnapStock-Website",
   },
   {
-    title: "My Resume Site",
+    title: "OSS Lab",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "OSS Lab is online directory for finding open-source projects based on skill level and differnet skillsets",
+    url: "https://oss-lab.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "LogFusion",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "LogFusion is Social-Networking platform for professionals. It includes features of daily streaks, auto-portfolio making, career visualization & project management. Users can share about their learnings and experimental projects.",
+    url: "https://logfusion.net",
   },
 ];
 
